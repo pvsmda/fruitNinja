@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="portfolio" src="https://github.com/pvsmda/fruitNinja/blob/main/screencapture-file-C-Users-paulo-Documents-projetos-FruitNinja-index-html-2021-12-26-09_59_16.png?raw=true" width="100%">
+  <img alt="portfolio" src="https://github.com/pvsmda/cloneInstagram/blob/main/screencapture-pvsmda-github-io-cloneInstagram-2021-12-26-10_17_28.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
